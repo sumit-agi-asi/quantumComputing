@@ -2544,9 +2544,9 @@ Independent ideas, mathematical principles, scientific facts, discoveries, metho
 For avoidance of doubt, the strongest protection for the underlying technical inventions may require separate patent, trade-secret, contractual, or other intellectual-property protection in addition to copyright protection.
 
 
-**Technocraft AI, parent of AItomation Pvt Ltd, 2026.** **All rights reserved.**
+**&copy; Technocraft AI, parent of AItomation Pvt Ltd, 2026.** **All rights reserved.**
 
-&copy; AItomation Pvt Ltd, 2026. **All rights reserved.**
+**&copy; AItomation Pvt Ltd, 2026.** **All rights reserved.**
 
 
 
