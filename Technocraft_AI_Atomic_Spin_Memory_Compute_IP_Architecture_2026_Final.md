@@ -1452,7 +1452,7 @@ rather than optimizing the microscopic storage element in isolation.
 
 # Copyright
 
-Technocraft AI, parent of AItomation Pvt Ltd, 2026. All rights reserved.
+**&copy;Technocraft AI, parent of AItomation Pvt Ltd, 2026. All rights reserved.**
 
 This document contains proprietary architectural concepts and proposed system designs. No license, assignment or authorization to reproduce, implement, commercialize, patent, disclose or otherwise exploit the protectable subject matter contained in this document is granted by publication or receipt.
 
@@ -1460,6 +1460,8 @@ Underlying scientific principles and previously published experimental results r
 
 Unauthorized use of protectable Technocraft AI or AItomation Pvt Ltd intellectual property may be pursued to the maximum extent permitted by applicable law. Any damages or recovery sought shall be determined by applicable law, jurisdiction, evidence and competent legal authority.
 
+
+**&copy;Technocraft AI, parent of AItomation Pvt Ltd, 2026. All rights reserved.**
 ---
 
 # References
