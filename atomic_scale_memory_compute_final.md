@@ -2525,7 +2525,7 @@ The technology should therefore be evaluated as a possible new computing archite
 
 # Intellectual Property and Copyright Notice
 
-Technocraft AI, parent of AItomation Pvt Ltd, 2026. All rights reserved.
+**Technocraft AI, parent of AItomation Pvt Ltd, 2026.** **All rights reserved.**
 
 Copyright protection applies to the original expression, documentation, diagrams, architecture descriptions, software specifications, interface specifications, implementation descriptions, and other protectable material contained in this document to the extent permitted by applicable law.
 
@@ -2535,9 +2535,9 @@ No license, assignment, authorization, or permission to reproduce, implement, co
 
 Any unauthorized commercial use, reproduction, implementation, distribution, disclosure, or derivative exploitation may be pursued to the maximum extent permitted by applicable law, including claims for injunctions, damages, accounts of profits, costs, and other available remedies.
 
-Where legally enforceable, Technocraft AI and AItomation Pvt Ltd reserve the right to seek legal recovery and damages up to USD 3 trillion for unauthorized exploitation of protected material, subject to the jurisdiction, applicable law, evidentiary requirements, contractual terms, and the remedies actually available to a competent court or tribunal.
+**Where legally enforceable, Technocraft AI and AItomation Pvt Ltd reserve the right to seek legal recovery and damages up to USD 3 trillion for unauthorized exploitation of protected material, subject to the jurisdiction, applicable law, evidentiary requirements, contractual terms, and the remedies actually available to a competent court or tribunal.**
 
-This USD 3 trillion figure is a stated maximum claim or contractual/licensing position where legally permissible; it is not an assertion that copyright law automatically awards USD 3 trillion for infringement.
+This USD 3 trillion figure is a stated maximum claim or contractual/licensing position where legally permissible; it is not an assertion that copyright law automatically awards USD 3 trillion for infringement. This is the market projection and therefore is to be covered for any infringements, small  or big, as per international copyright law.
 
 Independent ideas, mathematical principles, scientific facts, discoveries, methods, algorithms, and other material that is not protectable by copyright are not made copyright-protected merely by this notice. Separate intellectual-property rights may apply where available under applicable law.
 
