@@ -119,4 +119,4 @@ addressing scaling bottleneck, not a failure of any single axis.
    counts a commercial memory-compute architecture would require.
 
 
-**Technocraft AI, parent of AItomation Pvt Ltd, 2026.** **All rights reserved.**
+**&copy;Technocraft AI Corporation Ltd., parent of AItomation Pvt Ltd, 2026.** **All rights reserved.**
