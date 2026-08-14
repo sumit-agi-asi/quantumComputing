@@ -117,3 +117,6 @@ addressing scaling bottleneck, not a failure of any single axis.
    array at scale.** Each technique is demonstrated individually, often in different
    devices with different qubit counts — not stacked together and scaled to the cell
    counts a commercial memory-compute architecture would require.
+
+
+**Technocraft AI, parent of AItomation Pvt Ltd, 2026.** **All rights reserved.**
